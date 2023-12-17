@@ -14,3 +14,4 @@ git clone https://github.com/skillupmu/markdown.git
 ## reference
 
  - [Markdownから爆速スライド作成](https://trap.jp/post/1341/)
+ - [情報系以外の方にもおすすめしたいMarkdown](https://trap.jp/post/371/)
